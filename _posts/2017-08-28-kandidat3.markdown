@@ -5,17 +5,50 @@ img: himalayan.jpg # Add image post (optional)
 date: 2017-09-26 23:46:00 +0700
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
-> Visi : Satu rasa, satu cita, bermacam warna, untuk FMIPA 2017. <cite>- Arvian Syandika Pramasta</cite>
+> Visi : Satu rasa, satu cita, bermacam warna, untuk FMIPA 2017.
 
 Satu rasa artinya kita sebagai keluarga FMIPA 2017 memiliki rasa yang sama, yaitu rasa kekeluargaan, saling peduli, dan juga rasa bangga menjadi bagian FMIPA ITB
 Satu cita artinya kita sebagai mahasiswa FMIPA 2017 memiliki tujuan akhir yang sama secara umum, yaitu mendapatkan IPK mendekati atau sama dengan 4.
 Bermacam warna artinya kita FMIPA 2017 terdiri dari berbagai macam warna kehidupan, warna bakat,warna minat, serta berbagai macam warna lainnya bersatu menjadi keindahan yang perlu dilestarikan dan dikembangkan.
 
-**Misi : - Mengadakan kegiatan kebersamaan secara efektif dan efisien.
-         - Mengoptimalkan segala bentuk minat dan bakat yang ada di FMIPA 2017.
-         - Menjadi wadah aspirasi dan motor penggerak untuk FMIPA 2017.**
+----
+----
+
+**Misi : 
+- Mengadakan kegiatan kebersamaan secara efektif dan efisien.
+- Mengoptimalkan segala bentuk minat dan bakat yang ada di FMIPA 2017.
+- Menjadi wadah aspirasi dan motor penggerak untuk FMIPA 2017.**
+
+----
+----
          
-Proker : **"Curhang"** *(curhat angkatan)* 
->>siapapun dari FMIPA 2017 diperbolehkan menghubungi ketua atau wakil ketua angkatan untuk sekedar bercerita ataupun bertanya tentang masalah yang terjadi tanpa harus malu
+**Proker** : **"Curhang"** *(curhat angkatan)* 
+Siapapun dari FMIPA 2017 diperbolehkan menghubungi ketua atau wakil ketua angkatan untuk sekedar bercerita ataupun bertanya tentang masalah yang terjadi tanpa harus malu
+
+----
+----
+
+Nama Lengkap      : Arvian Syandika Pramasta
+Nama Panggilan    : Vian
+NIM               : 16017162
+TTL               : Bekasi, 6 September 1999
+Hobi              : Menulis dan membaca puisi, Berorganisasi
+
+**Riwayat Pendidikan** :
+-SDS Daar El Salam Bogor
+-SMPN 9 Bekasi
+-SMAN 1 Bekasi
+
+**Riwayat Organisasi** : 
+-Pengurus OSIS bidang jaringan komunikasi (SMP)
+-Ketua Ekskul Paduan Suara (SMP)
+-Pengurus OSIS bidang budi pekerti (SMA)
+-Ketua Angkatan Ekskul Paskibra (SMA)
+-Wakil ketua OSIS (SMA)
+
+## Motto Hidup : Fall down seven times, get up eight times
+
+>"Bukan hanya hebat, bukan pula kuat, namun yang dibutuhkan adalah pemimpin yang tepat" <cite>Arvian Syandika Pramasta</cite>
+
 
 
