@@ -5,7 +5,7 @@ img: himalayan.jpg # Add image post (optional)
 date: 2017-09-26 23:46:00 +0700
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
-### Visi : Satu rasa, satu cita, bermacam warna, untuk FMIPA 2017.
+## Visi : Satu rasa, satu cita, bermacam warna, untuk FMIPA 2017.
 
 Satu rasa artinya kita sebagai keluarga FMIPA 2017 memiliki rasa yang sama, yaitu rasa kekeluargaan, saling peduli, dan juga rasa bangga menjadi bagian FMIPA ITB
 Satu cita artinya kita sebagai mahasiswa FMIPA 2017 memiliki tujuan akhir yang sama secara umum, yaitu mendapatkan IPK mendekati atau sama dengan 4.
@@ -28,28 +28,28 @@ Siapapun dari FMIPA 2017 diperbolehkan menghubungi ketua atau wakil ketua angkat
 ----
 ----
 <br>
-- Nama Lengkap      : Arvian Syandika Pramasta
-- Nama Panggilan    : Vian
-- NIM               : 16017162
-- TTL               : Bekasi, 6 September 1999
-- Hobi              : Menulis dan membaca puisi, Berorganisasi
-
+Nama Lengkap      : Arvian Syandika Pramasta  
+Nama Panggilan    : Vian  
+NIM               : 16017162  
+TTL               : Bekasi, 6 September 1999  
+Hobi              : Menulis dan membaca puisi, Berorganisasi  
+<br>
 **Riwayat Pendidikan** :
 * SDS Daar El Salam Bogor
 * SMPN 9 Bekasi
 * SMAN 1 Bekasi
-
+<br>
 **Riwayat Organisasi** : 
 + Pengurus OSIS bidang jaringan komunikasi (SMP)
 + Ketua Ekskul Paduan Suara (SMP)
 + Pengurus OSIS bidang budi pekerti (SMA)
 + Ketua Angkatan Ekskul Paskibra (SMA)
 + Wakil ketua OSIS (SMA)
-
-
+<br>
+<br>
 ### Motto Hidup : Fall down seven times, get up eight times
-
-
+<br>
+<br>
 >"Bukan hanya hebat, bukan pula kuat, namun yang dibutuhkan adalah pemimpin yang tepat" <cite>Arvian Syandika Pramasta</cite>
 
 
