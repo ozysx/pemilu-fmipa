@@ -5,7 +5,7 @@ img: himalayan.jpg # Add image post (optional)
 date: 2017-09-26 23:46:00 +0700
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
-> Visi : Satu rasa, satu cita, bermacam warna, untuk FMIPA 2017.
+### Visi : Satu rasa, satu cita, bermacam warna, untuk FMIPA 2017.
 
 Satu rasa artinya kita sebagai keluarga FMIPA 2017 memiliki rasa yang sama, yaitu rasa kekeluargaan, saling peduli, dan juga rasa bangga menjadi bagian FMIPA ITB
 Satu cita artinya kita sebagai mahasiswa FMIPA 2017 memiliki tujuan akhir yang sama secara umum, yaitu mendapatkan IPK mendekati atau sama dengan 4.
@@ -14,7 +14,7 @@ Bermacam warna artinya kita FMIPA 2017 terdiri dari berbagai macam warna kehidup
 ----
 ----
 
-**Misi : 
+### Misi : 
 - Mengadakan kegiatan kebersamaan secara efektif dan efisien.
 - Mengoptimalkan segala bentuk minat dan bakat yang ada di FMIPA 2017.
 - Menjadi wadah aspirasi dan motor penggerak untuk FMIPA 2017.**
