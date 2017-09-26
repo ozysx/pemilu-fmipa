@@ -14,10 +14,10 @@ Bermacam warna artinya kita FMIPA 2017 terdiri dari berbagai macam warna kehidup
 ----
 ----
 
-### Misi : 
+## Misi : 
 <b>1. Mengadakan kegiatan kebersamaan secara efektif dan efisien.
-2. Mengoptimalkan segala bentuk minat dan bakat yang ada di FMIPA 2017.
-3. Menjadi wadah aspirasi dan motor penggerak untuk FMIPA 2017.</b>
+<b>2. Mengoptimalkan segala bentuk minat dan bakat yang ada di FMIPA 2017.
+<b>3. Menjadi wadah aspirasi dan motor penggerak untuk FMIPA 2017
 
 ----
 ----
@@ -46,8 +46,8 @@ Hobi              : Menulis dan membaca puisi, Berorganisasi
 + Pengurus OSIS bidang budi pekerti (SMA)
 + Ketua Angkatan Ekskul Paskibra (SMA)
 + Wakil ketua OSIS (SMA)
-  
-  
+<br>
+<br>
 ### Motto Hidup : Fall down seven times, get up eight times
 <br>
 >"Bukan hanya hebat, bukan pula kuat, namun yang dibutuhkan adalah pemimpin yang tepat" <cite>Arvian Syandika Pramasta</cite>
