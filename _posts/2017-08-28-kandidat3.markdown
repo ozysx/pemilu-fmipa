@@ -13,7 +13,7 @@ Bermacam warna artinya kita FMIPA 2017 terdiri dari berbagai macam warna kehidup
 
 ----
 ----
-<br>
+
 ### Misi : 
 1. Mengadakan kegiatan kebersamaan secara efektif dan efisien.
 2. Mengoptimalkan segala bentuk minat dan bakat yang ada di FMIPA 2017.
@@ -38,7 +38,8 @@ Hobi              : Menulis dan membaca puisi, Berorganisasi
 * SDS Daar El Salam Bogor
 * SMPN 9 Bekasi
 * SMAN 1 Bekasi
-<br>
+  
+  
 **Riwayat Organisasi** : 
 + Pengurus OSIS bidang jaringan komunikasi (SMP)
 + Ketua Ekskul Paduan Suara (SMP)
@@ -47,8 +48,8 @@ Hobi              : Menulis dan membaca puisi, Berorganisasi
 + Wakil ketua OSIS (SMA)
 <br>
 <br>
-### Motto Hidup : Fall down seven times, get up eight times
 <br>
+### Motto Hidup : Fall down seven times, get up eight times
 <br>
 >"Bukan hanya hebat, bukan pula kuat, namun yang dibutuhkan adalah pemimpin yang tepat" <cite>Arvian Syandika Pramasta</cite>
 
