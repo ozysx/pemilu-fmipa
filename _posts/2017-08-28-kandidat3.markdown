@@ -45,11 +45,9 @@ Hobi              : Menulis dan membaca puisi, Berorganisasi
 + Ketua Ekskul Paduan Suara (SMP)
 + Pengurus OSIS bidang budi pekerti (SMA)
 + Ketua Angkatan Ekskul Paskibra (SMA)
-+ Wakil ketua OSIS (SMA)
-<br>
-<br>
-<br>
-<br>
++ Wakil ketua OSIS (SMA)  
+  
+  
 ### Motto Hidup : Fall down seven times, get up eight times
 <br>
 >"Bukan hanya hebat, bukan pula kuat, namun yang dibutuhkan adalah pemimpin yang tepat" <cite>Arvian Syandika Pramasta</cite>
